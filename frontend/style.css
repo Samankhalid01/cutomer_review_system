@@ -1,0 +1,16 @@
+body {
+    font-family: Arial;
+    padding: 20px;
+    background: #f6f6f6;
+}
+
+#content {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+pre {
+    background: #eee;
+    padding: 10px;
+    border-radius: 5px;
+}

@@ -1,0 +1,122 @@
+{
+    "sentiment_metrics": {
+        "accuracy": 0.8571428571428571,
+        "classification_report": {
+            "Negative": {
+                "precision": 0.0,
+                "recall": 0.0,
+                "f1-score": 0.0,
+                "support": 4.0
+            },
+            "Neutral": {
+                "precision": 1.0,
+                "recall": 0.2,
+                "f1-score": 0.3333333333333333,
+                "support": 5.0
+            },
+            "Positive": {
+                "precision": 0.8545454545454545,
+                "recall": 1.0,
+                "f1-score": 0.9215686274509803,
+                "support": 47.0
+            },
+            "accuracy": 0.8571428571428571,
+            "macro avg": {
+                "precision": 0.6181818181818182,
+                "recall": 0.39999999999999997,
+                "f1-score": 0.41830065359477125,
+                "support": 56.0
+            },
+            "weighted avg": {
+                "precision": 0.8064935064935065,
+                "recall": 0.8571428571428571,
+                "f1-score": 0.8032212885154061,
+                "support": 56.0
+            }
+        }
+    },
+    "topics": {
+        "Topic_0": [
+            "product",
+            "good",
+            "battery",
+            "camera",
+            "awesome",
+            "life",
+            "backup",
+            "display",
+            "sound",
+            "quality"
+        ],
+        "Topic_1": [
+            "nice",
+            "mobile",
+            "product",
+            "guy",
+            "delivery",
+            "phone",
+            "phn",
+            "mobaile",
+            "also",
+            "system"
+        ],
+        "Topic_2": [
+            "good",
+            "phone",
+            "camera",
+            "overall",
+            "backup",
+            "one",
+            "quality",
+            "camerabattery",
+            "call",
+            "performance"
+        ],
+        "Topic_3": [
+            "best",
+            "mi",
+            "one",
+            "phone",
+            "mobile",
+            "price",
+            "money",
+            "love",
+            "handset",
+            "disappointing"
+        ],
+        "Topic_4": [
+            "phone",
+            "good",
+            "camera",
+            "quality",
+            "like",
+            "buy",
+            "ok",
+            "display",
+            "money",
+            "mobile"
+        ]
+    },
+    "insights": {
+        "top_positive_words": [
+            "good",
+            "phone",
+            "camera",
+            "pro",
+            "redmi"
+        ],
+        "top_negative_words": [
+            "camera",
+            "mi",
+            "worst",
+            "front",
+            "good"
+        ],
+        "sentiment_distribution": {
+            "Positive": 214,
+            "Negative": 36,
+            "Neutral": 30
+        },
+        "average_rating": 3.9178571428571427
+    }
+}
